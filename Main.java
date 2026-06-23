@@ -12,6 +12,8 @@ class Student {
     public String toString() {
         return id + " - " + name;
     }
+
+    System.out.println("New Feature Added");
 }
 
 public class Main {
